@@ -1,0 +1,12 @@
+{
+  "name": "baonguyen",
+  "displayName": "baonguyen",
+  "expo": {
+    "name": "baonguyen",
+    "slug": "baonguyen",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
